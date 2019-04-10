@@ -1,0 +1,15 @@
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\BetServerManager.exe.config
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\BetServerManager.exe
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\BetServerManager.pdb
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.csprojAssemblyReference.cache
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.mainWindow.resources
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.Properties.Resources.resources
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.csproj.GenerateResource.cache
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.csproj.CoreCompileInputs.cache
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.exe
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.pdb
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\Google.Protobuf.dll
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\MySql.Data.dll
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\Google.Protobuf.xml
+C:\Radius\Period 4\BetServerManager\BetServerManager\bin\Debug\MySql.Data.xml
+C:\Radius\Period 4\BetServerManager\BetServerManager\obj\Debug\BetServerManager.csproj.CopyComplete
