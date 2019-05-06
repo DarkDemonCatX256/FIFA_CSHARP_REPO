@@ -1,0 +1,50 @@
+[
+{
+    "type": "header",
+    "version": "4.8.4",
+    "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+    "type": "database",
+    "name": "f9"
+},
+{
+    "type": "table",
+    "name": "players",
+    "database": "f9",
+    "data": 
+[
+{
+    "id": "11",
+    "player_name": "aj",
+    "team_name": "team"
+},
+{
+    "id": "12",
+    "player_name": "PietjePuk",
+    "team_name": "team"
+},
+{
+    "id": "24",
+    "player_name": "Speler 1",
+    "team_name": "Test"
+},
+{
+    "id": "25",
+    "player_name": "Speler 2",
+    "team_name": "Test"
+},
+{
+    "id": "26",
+    "player_name": "Speler 3",
+    "team_name": "Test"
+},
+{
+    "id": "27",
+    "player_name": "Speler 4",
+    "team_name": "Test"
+}
+]
+
+}
+]
